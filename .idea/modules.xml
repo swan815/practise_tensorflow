@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AutoEnconder.iml" filepath="$PROJECT_DIR$/.idea/AutoEnconder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TensorFlow_Practise/.idea/TensorFlow_Practise.iml" filepath="$PROJECT_DIR$/../TensorFlow_Practise/.idea/TensorFlow_Practise.iml" />
     </modules>
   </component>
 </project>
