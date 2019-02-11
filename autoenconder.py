@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 #-*-coding:utf-8-*-
+#chapter4 autoencoder
 import numpy as np
 import sklearn.preprocessing as prep
 import tensorflow as tf
